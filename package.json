@@ -15,5 +15,9 @@
     "name": "Máximo Belén",
     "email": "maximobelen@me.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maximobelen/scroll-manager.git"
+  },
   "license": "ISC"
 }
